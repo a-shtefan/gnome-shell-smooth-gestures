@@ -1,0 +1,12 @@
+{
+  "description": "Adds smooth gestures to gnome.",
+  "gettext-domain": "smoothgestures",
+  "name": "Smooth gestures",
+  "settings-schema": "org.gnome.shell.extensions.smoothgestures",
+  "shell-version": [
+    "3.36"
+  ],
+  "url": "https://github.com/a-shtefan/gnome-shell-smooth-gestures",
+  "uuid": "smoothgestures@a-shtefan.github.com",
+  "version": 1
+}
